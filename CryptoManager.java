@@ -1,13 +1,4 @@
-/**
- * Class: CMSC203 31569
- *  Program: Assignment 3
- *  Instructor: Ahmed Tarek
- * Due: MM/DD/YYYY (<03/07/2023>)
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: Nathnael Yohannes
-*/
+
 public class CryptoManager {
 	
 	private static final char LOWER_BOUND = ' ';
